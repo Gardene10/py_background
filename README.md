@@ -1,7 +1,5 @@
 # py_background
-<p align="center">
-  <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/microsoft/209/artist-palette_1f3a8.png" alt="Py_Background Logo" width="200">
-</p>
+
 Bem-vindo ao py_background! Este é um projeto em Python que visa remover o fundo de imagens, converter para o formato PNG e salvar em uma pasta separada. Ótimo para criar imagens com fundo transparente para diversos contextos.
 
 Como Funciona 🚀
